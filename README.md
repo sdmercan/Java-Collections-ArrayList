@@ -1,4 +1,5 @@
 # Java-Collections-ArrayList
+Öğrenci ekleme, silme, değiştirme, listeleme, arama, dosyaya kaydet işlemlerini ArrayList ile yapan uygulama
 
 ![Screenshot_1](https://user-images.githubusercontent.com/49806516/71642145-094f0680-2cb8-11ea-8dd5-b5b47687683f.png)
 
